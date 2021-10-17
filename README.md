@@ -14,7 +14,7 @@ In this analysis I will be examining the number of retiring employees per title 
 
 - Only 2 Managers will be retiring
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/Pewlett-Hackard-Analysis/blob/6e630efbe4138eebb15b733fa7c3b1640ea0268d/IMAGE%201.png)
 
 - 1,548 employees are eligible to participate in the mentorship program.
 
