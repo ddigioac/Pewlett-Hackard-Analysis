@@ -30,4 +30,4 @@ With only 1,548 employees eligible to participate in the mentorship program, Pew
 
 **Conclusion**
 
-To conclude, in order to provide more insight I would recommend further analyzing the salaries of the employees that are retiring. This will help the finance department budget accordingly. I would also suggest running a report of current department managers that are not retiring, this way they can provide advice and strategy on how to manage their department individually. 
+To conclude, in order to provide more insight I would recommend further analyzing the salaries of the employees that are retiring. This will help the finance department budget accordingly. I would also suggest running a report of current department managers that are not retiring, this will allow these employees to provide advice and strategy on how to manage their department individually. 
