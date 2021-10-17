@@ -12,7 +12,7 @@ In this analysis I will be examining the number of retiring employees per title 
 
 - Most employees retiring are either Senior Engineers or Senior Staff
 
-- Only 2 Managers will be retiring
+- Only two Managers will be retiring
 
 ![This is an image](https://github.com/ddigioac/Pewlett-Hackard-Analysis/blob/6e630efbe4138eebb15b733fa7c3b1640ea0268d/IMAGE%201.png)
 
