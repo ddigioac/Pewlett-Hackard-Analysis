@@ -14,7 +14,7 @@ In this analysis I will be examining the number of retiring employees per title 
 
 - Only 2 Managers will be retiring
 
-[Insert Photo Here]
+![This is an image]()
 
 - 1,548 employees are eligible to participate in the mentorship program.
 
