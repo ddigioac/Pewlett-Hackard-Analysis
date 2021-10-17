@@ -28,6 +28,6 @@ Although 90,398 employees will be retiring, not every position will require a ne
 
 With only 1,548 employees eligible to participate in the mentorship program, Pewlett Hackard should focus on encouraging more senior staff to become eligible to join the program. This will permit more current employees to train and advance their careers within the company.
 
-**In Conclusion**
+**Conclusion**
 
 To conclude, in order to provide more insight I would recommend further analyzing the salaries of the employees that are retiring. This will help the finance department budget accordingly. I would also suggest running a report of current department managers that are not retiring, this way they can provide advice and strategy on how to manage their department individually. 
